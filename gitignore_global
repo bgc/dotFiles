@@ -226,7 +226,11 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
 
+#processing
 
-.eslintrc
-
-.gitignore
+applet
+application.linux32
+application.linux64
+application.windows32
+application.windows64
+application.macosx
